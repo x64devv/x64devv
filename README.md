@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @x64devv
-- 👀 I’m interested in mobile app development and cyber security
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in mobile app development, spring boot and aws
+- 🌱 I’m currently learning Kotlin Multiplatform
 - 💞️ I’m looking to collaborate on any interesting mobile app ideas
 - 📫 How to reach me x64devv@gmail.com
 
